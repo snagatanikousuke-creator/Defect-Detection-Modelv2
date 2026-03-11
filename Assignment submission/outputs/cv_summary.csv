@@ -1,0 +1,6 @@
+fold,best_epoch,best_threshold,acc,bad_recall,bad_precision,bad_fbeta,tp,tn,fp,fn,model_path
+1,6,0.15,0.9958847736625515,1.0,0.984375,0.9968354430379747,63,179,1,0,/content/drive/MyDrive/defect_cv_with_final_test/cv/fold_1/best_model_fold_1.pth
+2,9,0.25,0.9958847736625515,1.0,0.984375,0.9968354430379747,63,179,1,0,/content/drive/MyDrive/defect_cv_with_final_test/cv/fold_2/best_model_fold_2.pth
+3,9,0.05,0.9917695473251029,0.9682539682539683,1.0,0.97444089456869,61,180,0,2,/content/drive/MyDrive/defect_cv_with_final_test/cv/fold_3/best_model_fold_3.pth
+4,11,0.15,0.9958847736625515,1.0,0.984375,0.9968354430379747,63,179,1,0,/content/drive/MyDrive/defect_cv_with_final_test/cv/fold_4/best_model_fold_4.pth
+5,4,0.3,1.0,1.0,1.0,1.0,63,180,0,0,/content/drive/MyDrive/defect_cv_with_final_test/cv/fold_5/best_model_fold_5.pth
